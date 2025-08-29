@@ -12,3 +12,32 @@ body{
     font-weight: bold;
     font-size: 1.5rem;
 }
+
+.card-title{
+    font-weight: bold;
+    font-size: 1.5rem;
+}
+
+.call-entry {
+    background-color: #f9fafb;
+    padding: 12px;
+    border-radius: 8px; 
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 8px;          
+}
+
+.call-entry .details {
+    display: flex;
+    flex-direction: column;
+}
+
+.call-entry .details .number {
+    font-size: 14px;
+    color: #4b5563;        
+}
+
+.call-entry .details .name {
+    font-weight: bold;           
+}
