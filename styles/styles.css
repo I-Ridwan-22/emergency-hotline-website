@@ -1,0 +1,9 @@
+body{
+    background-color: #41FF6B1A;
+}
+
+.Navbar{
+    width: 100%;
+    --tw-bg-opacity: 1;
+    background-color: rgb(255 255 255 / var(--tw-bg-opacity, 1));
+}
